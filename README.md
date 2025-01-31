@@ -1,10 +1,10 @@
 ﻿# DisasterTweetDetection
 
-﻿# Overview
+﻿Overview
 
 Disaster Tweet Detection is a machine learning project designed to classify tweets as either related to a disaster or not. The project explores various models to assess their performance in accurately detecting disaster-related tweets.
 
-﻿# Features
+﻿Features
 
 Dataset Processing: Preprocessing techniques applied to clean and tokenize text data.
 
@@ -16,12 +16,12 @@ Visualization: Data distribution, word clouds, and model performance visualized 
 
 Jupyter Notebooks: Interactive notebooks used to run experiments and analyze results.
 
-﻿# Installation
+﻿Installation
 
 1. Clone the repository:
 
-git clone https://github.com/your-repo/disaster-tweet-detection.git
-cd disaster-tweet-detection
+git clone https://github.com/amin224/DisasterTweetDetection.git
+cd DisasterTweetDetection
 
 Install dependencies:
 
@@ -31,7 +31,7 @@ Launch Jupyter Notebook:
 
 3. jupyter notebook
 
-﻿# Usage
+﻿Usage
 
 Open the provided Jupyter Notebooks.
 
@@ -41,6 +41,6 @@ Train and evaluate different machine learning models.
 
 Compare performance metrics and analyze results.
 
-﻿# Contributions
+﻿Contributions
 
 Contributions are welcome! Feel free to submit issues or pull requests to enhance the project.
